@@ -37,5 +37,4 @@ Terminalden "npm i" yazarak modülleri indiriniz
 <img  src="https://cdn.discordapp.com/attachments/1214530542842945596/1214603194014105640/image.png?ex=65f9b65f&is=65e7415f&hm=77e38447bf7feb95d59dc9816e9219abb7b3b66faebc496c133d83d0280c3516&">
 <img  src="https://cdn.discordapp.com/attachments/1214530542842945596/1214603244681302137/image.png?ex=65f9b66b&is=65e7416b&hm=5e01b271a8e1bf1f04a14830c7f0b1c7f915cf0490a9ba34ddbe6b5b868e85a4&">
 <img  src="https://cdn.discordapp.com/attachments/1214530542842945596/1214603490232504381/image.png?ex=65f9b6a6&is=65e741a6&hm=abe3d5001bd7dc0b47bfcfa575217f52c79441faae286e0fe5cff6586e8d3eb5&">
-<img  src="">
-<img  src="">
+<img  src="https://cdn.discordapp.com/attachments/1214530542842945596/1214603617747603547/image.png?ex=65f9b6c4&is=65e741c4&hm=9bedb5e8c10afa86cdea12a12eb03129f55b6ccaf350ccf8d89f93965496342a&">
