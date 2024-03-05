@@ -13,7 +13,7 @@ Sizin için geliştirmiş oldugum güzel v14 Priv System botudur
 Not: Proje 0'dan yazılmadı boş altyapıdan alınıp yapıldı
 
 ```js
-"cofnig.js" Dosyasını doldurunuz
+"config.js" Dosyasını doldurunuz
 
 Terminalden "npm i" yazarak modülleri indiriniz
 
